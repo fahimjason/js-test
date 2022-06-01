@@ -20,11 +20,9 @@ You can either view my code directly here on Github (you can open + view code fi
 
 You can run my project code by navigating into the respective code snapshots subfolder (i.e., a folder in the `/` folder) and executing `npm install` followed by `npm test` there.
 
-    >### example
-    >
-    >```
-    ># open new terminal
-    >$ cd basic-testing-nodejs
-    >$ npm install
-    >$ npm test
-    >```
+    example
+
+    # open new terminal
+    $ cd basic-testing-nodejs
+    $ npm install
+    $ npm test
